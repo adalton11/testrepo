@@ -1,0 +1,33 @@
+Basic Information
+edit
+NAME:Anthony Dalton,
+CITY, STATE:Sacramento, CA
+COUNTRY:United States
+Contact Information
+edit
+EMAIL:adalton@mail.smu.edu
+WEBSITE:http://www.edresults.org
+PHONE:
+LINKEDIN:https://www.linkedin.com/in/anthony-dalton-48a3339
+TWITTER:
+SKYPE:
+GTALK:
+YAHOO:
+MSN:
+AIM:
+AVAILABILITY:
+Work Information
+edit
+CURRENT EMPLOYER:
+Educational Results Partnership
+POSITION:
+Vice President of Data Science
+INDUSTRY:
+Public Benefit - Education Research
+YEARS OF PROFESSIONAL EXPERIENCE:
+Educational Information
+edit
+COURSES:2016-08-28 MSDS 6306 Doing Data Science: An Introduction to Data Science , 2016-0828 MSDS 6371 Experimental Statistics I , 2015-1211 MSDS 6371 Bridge to Statistics, 2014-1215 SMU Student Orientation
+PAST EDUCATION:
+WHAT PROGRAMMING LANGUAGES ARE YOU PROFICIENT IN?
+C#, JavaScript, JQuery, SQL, ASP.net, R
